@@ -2,7 +2,7 @@ package Hello_world;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello from main branch!");
+        System.out.println("Hello from feature branch!");
 
         System.out.println("Welcome to Java programming.");
 
